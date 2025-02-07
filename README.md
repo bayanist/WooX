@@ -24,4 +24,4 @@
 | Платформа | Версия |
 |-----------|--------|
 | macOS | 10.15+  |
-| WooCommerce API | API v3 |
+| WooCommerce API | REST API |
