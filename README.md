@@ -1,4 +1,4 @@
-# ✨ WooX — WooCommerce Menu Bar App for macOS
+# ✨ WooX — WooCommerce App for macOS
 
 ![WooX Logo](WooX.png)
 
